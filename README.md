@@ -11,5 +11,10 @@ The file vmrand.m was borrowed from the Circular Statistics Toolbox on
 MATLAB File Exchange. The associated license for this file
 (license.txt) is included.
 
+The data for running this code can be found on the BLAM Lab Data
+OneDrive under Chris/triple_task.zip. A duplicate of this data can
+also be found under Chris/CorsiMentalRotation, but the subdirectory
+paths are different.
+
 Jingyan has also created a repository for analyzing this same data,
 which can be found here: https://github.com/Jingyan230/BLAMlab
